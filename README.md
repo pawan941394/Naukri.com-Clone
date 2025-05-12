@@ -8,7 +8,7 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Pawan%20Kumar-red?logo=youtube)](https://www.youtube.com/@Pawankumar-py4tk)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/responsive-design.gif" width="550" alt="responsive-design">
+  <img src="[https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/responsive-design.gif](https://raw.githubusercontent.com/pawan941394/Naukri.com-Clone/refs/heads/main/1.png)" width="550" alt="responsive-design">
 </p>
 
 **A powerful web application for searching and filtering job listings from Naukri.com**
