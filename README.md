@@ -24,7 +24,7 @@
 ## ✨ Features
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/developer-tools.gif" width="100">
+  <img src="[https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/developer-tools.gif](https://raw.githubusercontent.com/pawan941394/Naukri.com-Clone/refs/heads/main/2.png)" width="100">
 </div>
 
 - 🔍 **Search by Job Title:** Find relevant jobs by keyword or title
