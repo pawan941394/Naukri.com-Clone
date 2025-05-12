@@ -109,9 +109,6 @@ naukri/
 
 ## ⚙️ How It Works
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/data-analytics-computer.gif" width="500">
-</div>
 
 1. **Job Search Request:**
    - The application constructs a URL to search Naukri.com based on your job title
@@ -146,7 +143,6 @@ naukri/
 <div align="center">
   <p><b>Subscribe to my YouTube channel for more Python tutorials!</b></p>
   <a href="https://www.youtube.com/@Pawankumar-py4tk">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/responsive-youtube.gif" width="500">
   </a>
 </div>
 
