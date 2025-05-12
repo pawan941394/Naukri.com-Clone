@@ -48,9 +48,6 @@
 
 ## 📦 Installation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/Code%20Typing.gif" width="500">
-</div>
 
 1. **Clone this repository**
    ```
